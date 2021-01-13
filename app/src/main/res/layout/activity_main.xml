@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/tools"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.premsinghdaksha.rippale_effect_lib.RippleEffectView
+        android:id="@+id/rippaleEffect_Id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="20dp"
+        ripple:rv_centered="true">
+
+        <Button
+            android:text="Rippal Effect"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" />
+    </com.premsinghdaksha.rippale_effect_lib.RippleEffectView>
+
+
+</RelativeLayout>

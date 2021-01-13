@@ -1,0 +1,3 @@
+include ':rippale_effect_lib'
+include ':app'
+rootProject.name = "RippaleEffectDemo"
