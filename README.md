@@ -9,7 +9,7 @@
 ```gradle
 dependencies {
 
-	        implementation 'com.github.premsingh8171:rippale_effect_lib:1.0'
+	        implementation 'com.github.premsingh8171:rippale_effect_lib:1.0.3'
 }
 ```
 
@@ -42,6 +42,8 @@ RippleEffectView effectView = findViewById(R.id.rippaleEffect_Id);
             }
         });
 ```
+
+#version- 1.0, 1.0.1, 1.0.2
 
 <h2>Created and maintained by:</h2>
 <p>Er.Prem singh daksha  premsingh8171@gmail.com</p>
