@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="rippelColor">#25ECA014</color>
+    <color name="grey">#E6E4E5</color>
+    <color name="black">#000000</color>
+    <color name="red">#000000</color>
+    <color name="colorVeryLowRating">#F7FF1515</color>
+
 </resources>

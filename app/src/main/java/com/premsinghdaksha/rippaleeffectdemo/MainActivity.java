@@ -1,11 +1,10 @@
 package com.premsinghdaksha.rippaleeffectdemo;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import com.premsinghdaksha.rippale_effect_lib.RippleEffectView;
 
 public class MainActivity extends AppCompatActivity {
